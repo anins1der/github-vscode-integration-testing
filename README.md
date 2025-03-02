@@ -2,7 +2,7 @@
 
 I'm trying to learn how _git_ and _Github_ works. I'm already familiar with Github (like Github using it's own flavoured markdown), so it should be easier for me lol
 
-## Why do it in front of everyine when you could just-
+## Why do it in front of everyone when you could just-
 
 Well:
 
